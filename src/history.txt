@@ -1,0 +1,20 @@
+emacs
+gcc shell.c
+./a.out
+ls
+exit
+pinfo
+exit
+gcc shell.c
+./a.out
+exit
+exit
+gcc shell.c
+pinfo
+pinfo 28729
+./a.out
+pinfo
+pinfo 28736
+exit
+pinfo
+exit
